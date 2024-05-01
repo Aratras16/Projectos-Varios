@@ -1,2 +1,2 @@
 # Projectos-Varios
-Projectos varios que voy programando
+Repositorio dónde agrego los programas que voy realizando
